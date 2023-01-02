@@ -36,7 +36,7 @@
 自己責任で使用してください。
 
 ## 機能
-- [ ] - [Selft Bot](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Turn your discord account into a self bot.
+- [ ] - [Selft Bot](https://github.com/AstraaDev/Discord-All-Tools-In-One) - discordアカウントを自作ボットにする。
 - [x] - [RAT Tool](https://github.com/moom825/Discord-RAT) - Create a RAT file. Once the victim runs it, you can control his PC through a BOT Discord.
 - [ ] - [Raid Tool](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Allows to raid a discord server with several accounts (requires an account generator).
 - [ ] - [Server Nuker](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Easily nuke a discord server with a BOT Discord.
