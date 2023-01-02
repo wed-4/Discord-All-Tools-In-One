@@ -25,17 +25,17 @@
 </p>
 
 <p align="center">
-  [Discord] - ATIO is a Script Gathering for Windows/Linux systems written in Python.
+  [Discord] - ATIOは、Pythonで書かれたWindows/Linuxシステム用のプログラム集です。
 </p>
 
-## Disclaimer
+## 免責事項
 
-|ATIO was made for Educational purposes|
+|ATIOは検証目的でのみ使用してください。|
 |-------------------------------------------------|
-This project was created only for good purposes and personal use.
-By using ATIO, you agree that you hold responsibility and accountability of any consequences caused by your actions.
+このプロジェクトは、善良な目的および個人的な使用のためにのみ作成されました。
+自己責任で使用してください。
 
-## Features
+## 機能
 - [ ] - [Selft Bot](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Turn your discord account into a self bot.
 - [x] - [RAT Tool](https://github.com/moom825/Discord-RAT) - Create a RAT file. Once the victim runs it, you can control his PC through a BOT Discord.
 - [ ] - [Raid Tool](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Allows to raid a discord server with several accounts (requires an account generator).
